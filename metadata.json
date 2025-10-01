@@ -1,0 +1,5 @@
+{
+  "name": "PDF Power-Up",
+  "description": "An AI-powered tool to transform your PDF content into interactive learning materials. Upload your document text to generate multiple-choice questions, flashcards, a concise summary, and an educational podcast in parallel.",
+  "requestFramePermissions": []
+}
